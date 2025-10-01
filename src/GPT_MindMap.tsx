@@ -18,7 +18,6 @@ import {
   ZoomIn,
   ZoomOut,
   Save,
-  FolderOpen,
   FileJson,
   Image as ImageIcon,
   Share2,
